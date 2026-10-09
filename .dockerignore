@@ -1,0 +1,11 @@
+.git
+.gitignore
+.dockerignore
+target/
+docs/
+README.md
+Jenkinsfile
+jenkins
+*.md
+.idea/
+.vscode/
